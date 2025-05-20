@@ -1,0 +1,1 @@
+export const DEFAULT_AVATAR = 'https://images.unsplash.com/photo-1611374243147-44a702c2d44c?auto=format&fit=crop&q=80&w=40&h=40';
